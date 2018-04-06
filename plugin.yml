@@ -1,6 +1,6 @@
 name: mcg76_BlockHunt
 version: 2.6.0
-api: [.0.0-ALPHA11]
+api: [3.0.0-ALPHA11]
 load: POSTWORLD
 main: mcg76\game\blockhunt\BlockHuntPlugIn
 author: minecraftgenius76
